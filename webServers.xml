@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8ae946e9-3565-4c17-84c1-55758130eafa" name="webphp0598" url="http://wayfaircom.csnzoo.com">
+        <fileTransfer host="webphp0598.dev.bo1.csnzoo.com" port="22" rootFolder="/wayfair/data/codebase" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
